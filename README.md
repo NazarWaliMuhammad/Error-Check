@@ -1,3 +1,3 @@
 # Error-Check
 
-Lol.
+Lol!
